@@ -227,7 +227,7 @@ function IntroRoom({ onStart }: { onStart: () => void; key?: string }) {
       </h2>
 
       <div className="bg-rose-500/5 border border-rose-500/20 p-8 rounded-2xl mb-10 max-w-xl mx-auto backdrop-blur-sm">
-        <p className="text-rose-500 font-black tracking-[0.2em] uppercase mb-4 animate-pulse">
+        <p className="text-emerald-400 font-black tracking-[0.2em] uppercase mb-4 animate-pulse">
           CRITICAL ALERT: CONTAINMENT FAILURE
         </p>
         <p className="text-zinc-300 leading-relaxed text-lg">
